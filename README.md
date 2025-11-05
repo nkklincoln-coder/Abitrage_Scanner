@@ -1,6 +1,6 @@
 # Repository Name
 
-Short description — replace this with a one-line overview of the project.
+sport betting.
 
 ## Features
 - TODO: list main features
